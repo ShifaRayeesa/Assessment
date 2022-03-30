@@ -1,0 +1,219 @@
+Enter the resultant number:
+10
+Enter 4 integers:
+1
+2
+3
+4
+[1, 2, 3, 4]
+Choose an integer:
+1
+Enter an opertaor:
++
+Choose an integer:
+2
+3
+3
+Enter an opertaor:
++
+Choose an integer:
+4
+7
+7
+Enter an opertaor:
++
+Choose an integer:
+3
+10
+10
+10
+Success
+
+Process finished with exit code 0
+
+
+Enter the resultant number:
+7
+Enter 4 integers:
+1
+4
+7
+9
+[1, 4, 7, 9]
+Choose an integer:
+9
+Enter an opertaor:
++
+Choose an integer:
+4
+13
+13
+Enter an opertaor:
++
+Choose an integer:
+1
+14
+14
+Enter an opertaor:
+-
+Choose an integer:
+7
+7
+7
+Success
+
+Process finished with exit code 0
+
+
+Enter the resultant number:
+10
+Enter 4 integers:
+1
+2
+3
+4
+[1, 2, 3, 4]
+Choose an integer:
+1
+Enter an opertaor:
++
+Choose an integer:
+2
+Previous result : 3
+Enter an opertaor:
+-
+Choose an integer:
+3
+Previous result : 0
+Enter an opertaor:
++
+Choose an integer:
+4
+Previous result : 4
+Final result : 4
+Failure
+
+Process finished with exit code 0
+
+
+Enter the resultant number:
+100
+Enter 4 integers:
+9
+1
+5
+3
+[9, 1, 5, 3]
+Choose an integer:
+9
+Enter an opertaor:{ + , - , * , / , C}
+c
+Choose an integer:
+1
+Previous result : 91
+Enter an opertaor:{ + , - , * , / , C}
++
+Choose an integer:
+5
+Previous result : 96
+Enter an opertaor:{ + , - , * , / , C}
++
+Choose an integer:
+3
+Previous result : 99
+Final result : 99
+Failure
+
+
+Enter the resultant number:
+100
+Enter 4 integers:
+9
+1
+5
+3
+[9, 1, 5, 3]
+Choose an integer:
+9
+Enter an opertaor:{ + , - , * , / , C}
+c
+Choose an integer:
+1
+Previous result : 91
+Enter an opertaor:{ + , - , * , / , C}
++
+Choose an integer:
+5
+Previous result : 96
+Enter an opertaor:{ + , - , * , / , C}
++
+Choose an integer:
+4
+Previous result : 100
+Final result : 100
+Success
+
+Process finished with exit code 0
+
+
+-----------------------PROGRAM 2------------------------
+
+The prime numbers in the first 10 fibonacci numbers are : 
+2
+3
+5
+13
+
+Process finished with exit code 0
+
+
+PRO
+
+
+-----------------------PROGRAM 3-------------------------
+
+Enter the two Strings
+Kitty
+Kutty
+Not an Anagram
+
+Process finished with exit code 0
+
+
+Enter the two Strings
+Silent
+Listen
+The given strings are anagrams
+
+Process finished with exit code 0
+
+
+Enter the two Strings
+comein
+comeon
+Not an Anagram
+
+Process finished with exit code 0
+
+
+
+----------------------PROGRAM 4---------------------------
+
+Enter the no. of array elements : 
+6
+Enter the array elements : 
+1
+2
+3
+4
+5
+6
+Enter the divisor : 
+5
+The pairs that meet the criteria are : 
+[1,4]
+[2,3]
+[4,6]
+3 pairs meet the criteria
+
+Process finished with exit code 0
